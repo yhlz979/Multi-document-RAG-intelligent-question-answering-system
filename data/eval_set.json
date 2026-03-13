@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "question": "Embedding 是什么？",
+    "expected_keywords": ["向量", "语义", "相似度"],
+    "expected_sources": ["embedding.pdf", "embedding.docx"]
+  },
+  {
+    "id": 2,
+    "question": "RAG 的核心思想是什么？",
+    "expected_keywords": ["检索", "知识", "生成"],
+    "expected_sources": ["rag.pdf", "rag.docx"]
+  },
+  {
+    "id": 3,
+    "question": "RAG 和微调有什么区别？",
+    "expected_keywords": ["外部知识", "模型参数", "检索"],
+    "expected_sources": ["rag.pdf", "finetune.pdf", "rag.docx", "finetune.docx"]
+  },
+  {
+    "id": 4,
+    "question": "FAISS 的作用是什么？",
+    "expected_keywords": ["向量", "索引", "检索"],
+    "expected_sources": ["faiss.pdf", "vector_db.pdf", "faiss.docx", "vector_db.docx"]
+  },
+  {
+    "id": 5,
+    "question": "为什么要使用 chunk overlap？",
+    "expected_keywords": ["语义", "截断", "连续"],
+    "expected_sources": ["chunking.pdf", "splitter.docx", "chunking.docx", "splitter.pdf"]
+  },
+  {
+    "id": 6,
+    "question": "为什么向量数据库比遍历所有向量更适合大规模检索？",
+    "expected_keywords": ["效率", "大规模", "检索"],
+    "expected_sources": ["vector_db.pdf", "faiss.pdf", "vector_db.docx", "faiss.docx"]
+  },
+  {
+    "id": 7,
+    "question": "Query Rewrite 的作用是什么？",
+    "expected_keywords": ["改写", "完整问题", "检索"],
+    "expected_sources": ["rewrite.pdf", "rewrite.docx"]
+  },
+  {
+    "id": 8,
+    "question": "增量索引有什么好处？",
+    "expected_keywords": ["新增文档", "避免全量重建", "效率"],
+    "expected_sources": ["index_update.pdf", "index_update.docx"]
+  }
+]

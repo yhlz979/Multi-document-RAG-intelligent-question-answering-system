@@ -1,0 +1,20 @@
+{
+  "files": {
+    "5a3c8007b8d9313bee3acdb22d6b0649": {
+      "filename": "chunk.docx",
+      "path": "docs/chunk.docx"
+    },
+    "6437a4b5b221a51e270f7e4a780b1c6b": {
+      "filename": "embedding.docx",
+      "path": "docs/embedding.docx"
+    },
+    "fdcfaec917c7540975c59936288ebe01": {
+      "filename": "faiss.docx",
+      "path": "docs/faiss.docx"
+    },
+    "0db8712513dad277cda20eab49fd6f1c": {
+      "filename": "rag.docx",
+      "path": "docs/rag.docx"
+    }
+  }
+}
